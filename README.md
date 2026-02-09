@@ -55,8 +55,8 @@
 
 ## 📊 Stats That Matter
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendram10&layout=compact&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lokendram10&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendradhote&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokendradhote&show_icons=true&theme=dracula" height="150"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lokendra-dhote-b47152257/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://www.youtube.com/@lokendradhote"><img height="60" src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png"/></a>
-  <a href="https://github.com/lokendra-dhote"><img height="50" src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://github.com/lokendradhote"><img height="50" src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---

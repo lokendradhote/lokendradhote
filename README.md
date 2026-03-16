@@ -50,6 +50,8 @@
 - 📌 **BookMate Website CI/CD** – Jenkins pipeline with Docker and GitHub Webhooks for automated deployment  
 - 📌 **AWS Infra Automation** – Provisioned EC2, S3, IAM, and load balancers using Terraform for cloud projects  
 - 📌 **DevSecOps Integrations** – Implemented SonarQube & Trivy in CI/CD pipelines for security and code quality scanning
+- 📌 **DevOps Environment Automation Script** –  Developed a Bash script to automate installation and configuration of Docker, Terraform, Jenkins, Trivy, and          essential utilities. <br/>
+    Reduced repetitive DevOps environment setup time from ~20–30 minutes to under 5 minutes by automating tool installation.
 
 ---
 

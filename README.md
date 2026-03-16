@@ -28,13 +28,13 @@
 
 ## 💡 Skills
 
-- **Cloud & DevOps Tools:** AWS, Jenkins, Docker, Docker Compose, Terraform  
+- **Cloud & DevOps Tools:** AWS, Jenkins, Docker, Docker Compose, Terraform, Kubernetes(started) 
 - **CI/CD & Automation:** Pipeline creation, Infrastructure as Code (IaC), Bash/Shell scripting, GitHub Webhooks  
 - **Security & Code Quality:** SonarQube, Trivy, OWASP Dependency Check & best practices  
 - **Monitoring & Alerting:** Prometheus, Grafana, Node Exporter, Telegram Bot alerts  
 - **Databases:** MySQL  
 - **Version Control:** Git, GitHub  
-- **Operating Systems:** Linux, Windows (SSH, Windows Terminal)  
+- **Operating Systems:** Linux & Shell scripting, Windows (SSH, Windows Terminal)  
 
 
 
